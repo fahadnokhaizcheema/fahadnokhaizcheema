@@ -1,10 +1,10 @@
 <div align="center">
   
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Fahad Header" />
+  <!-- 1. Header Banner -->
+  <img src="https://capsule-render.vercel.com/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Fahad Header" />
 
-  <!-- Typing Animation (New Stable Host) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=550&lines=Building+AI+Agents+🤖;Developing+Generative+AI+Apps+🚀;Full+Stack+Web+Development+💻;Agentic+AI+%26+LLM+Expertise+🧠" alt="Typing SVG" />
+  <!-- 2. Matrix Style Animation (Replacing broken SVG) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NxOWR1aG1wMXl0ZWR2aWk2dms3eWxva213anNxa255MnZzM3dmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72CpUByK2xKqXMqA/giphy.gif" width="550" alt="Matrix Code Animation" />
 
   <br/>
 
@@ -27,246 +27,115 @@
   <img src="https://komarev.com/ghpvc/?username=fahadnokhaizcheema&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="fahadnokhaizcheema trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=neon&no-frame=true&no-bg=true&margin-w=4" alt="fahadnokhaizcheema trophies" />
   </a>
 
 </div>
 
-<!-- Animated Divider -->
+<!-- Animated Divider 1 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
-  <!-- Lighter, Reliable Coding GIF -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" alt="Coding Gif" />
+  <!-- Reliable Coding GIF -->
+  <img src="https://media.giphy.com/media/3o75263l6FTQ1X2v70/giphy.gif" width="250" alt="Coding Gif" />
   <br/><br/>
   
-  <p>
+  <p style="font-size: 1.1em; color: #c9d1d9;">
     <strong>I am a passionate AI Engineer & Full Stack Developer from Pakistan.</strong><br/>
     I specialize in building <b>Autonomous Agents</b>, <b>Generative AI Apps</b>, and scalable <b>Web Solutions</b>.
   </p>
   
-  🤖 Currently working on <b>Agentic AI & Large Language Models</b> <br/> 
-  🌱 Exploring <b>Advanced Computer Vision, Big Data & Robotics</b> <br/> 
-  💬 Ask me about <b>React, Next.js, Python, LLMs & AI Agents</b> 
+  <p>
+    🤖 Currently working on <b>Agentic AI & Large Language Models</b> <br/> 
+    🌱 Exploring <b>Advanced Computer Vision, Big Data & Robotics</b> <br/> 
+    💬 Ask me about <b>React, Next.js, Python, LLMs & AI Agents</b> 
+  </p>
 
 </div>
 
-<!-- Animated Divider -->
+<!-- Animated Divider 2 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">🛠️ Tech Stack & Skills Mastery</h2>
 
-<!-- Skills Typing Animation -->
+<!-- Skills Category Rotator -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FACC15&center=true&vCenter=true&width=650&lines=HTML+%2F+CSS+%2F+JavaScript+%2F+TypeScript;React+JS+%26+Next+JS+Ecosystem;Node.js+%2B+Express+%2B+REST+%2B+GraphQL;AWS+%2F+Firebase+%2F+Cloud+Computing;Data+Science+%2F+ML+%2F+DL+%2F+Big+Data;NLP+%2F+Generative+AI+%2F+Agentic+AI" alt="Skills Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=F97316&center=true&vCenter=true&width=750&lines=Frontend+Development;Backend+%26+APIs;Cloud+%2F+DevOps;Data+Science+%2F+ML;Generative+AI;Agentic+AI+Workflows" alt="Skills Category SVG" />
 </div>
-
 <br/>
 
 <!-- Main Tech Icons -->
 <div align="center">
 
   <h3>💻 Core Web & Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,mui&perline=10" />
 
-  <h3>🧩 Backend & APIs</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mongodb,postgres,firebase,graphql" />
+  <h3>🧩 Backend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,firebase,graphql,jwt&perline=9" />
 
   <h3>☁️ Cloud, DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,linux&perline=7" />
 
-  <h3>🧠 AI, ML, DL & Data</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <h3>🧠 AI & Data Ecosystem</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apachespark&perline=5" />
 
 </div>
-
 <br/>
 
-<!-- COLLAPSIBLE DETAILED SKILLS (Out of the Box Style) -->
+<!-- COLLAPSIBLE DETAILED SKILLS (Max Style using Custom Summary) -->
 
-<details>
-  <summary><b>📄 HTML & CSS Fundamentals</b></summary>
-  <br/>
-  <ul>
-    <li><b>HTML:</b> Semantic Markup, Headings, Paragraphs, Lists, Tables, Links</li>
-    <li>Media Elements: Images, Video, Audio, Embedded Content (iframes)</li>
-    <li>Forms: Input Types, Validation, Form UX</li>
-    <li><b>CSS Core:</b> Selectors, Specificity, Box Model</li>
-    <li>Layouts: Flexbox, CSS Grid, Responsive Layouts</li>
-    <li>Media Queries, Mobile-first Design</li>
-    <li>Animations, Transitions, Hover Effects</li>
-    <li>Styling Frameworks: <b>Bootstrap, Tailwind CSS, Chakra UI</b></li>
-  </ul>
+<details style="border: 1px solid #30363d; border-radius: 8px; margin-bottom: 10px;">
+  <summary style="padding: 10px; cursor: pointer; font-size: 1.1em; font-weight: bold; background-color: #161b22; color: #58a6ff; border-radius: 7px 7px 0 0;">
+    📄 Frontend Deep Dive (React, Next.js, UI Frameworks)
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #30363d;">
+    <ul>
+      <li><b>React/Next.js:</b> Hooks, Context, SSR/SSG/ISR, API Routes, Auth (NextAuth/Firebase)</li>
+      <li><b>Styling Mastery:</b> Tailwind CSS, Chakra UI, Styled Components, Shadcn UI, Framer Motion</li>
+      <li><b>Frameworks/Templates:</b> React Admin Templates (MUI Admin), AdminLTE Next.js</li>
+      <li><b>Tools:</b> NPM, Yarn, pnpm, bun, Webpack/Vite Basics</li>
+      <li><b>Projects:</b> YouTube, Spotify, WhatsApp Clones, Complex Dashboards</li>
+    </ul>
+  </div>
 </details>
 
-<details>
-  <summary><b>⚡ JavaScript, Browser APIs & Projects</b></summary>
-  <br/>
-  <ul>
-    <li>Core JS: Syntax, Variables, Data Types, Functions, Scope, Closures</li>
-    <li>DOM Manipulation, Events, Custom Event Handling</li>
-    <li>Asynchronous JS: Promises, async/await, Fetch</li>
-    <li>RESTful APIs & GraphQL Consumption</li>
-    <li>Browser APIs: LocalStorage, Canvas, Geolocation</li>
-    <li>Debugging & Testing (DevTools, console, basic test flows)</li>
-    <li>Google AI Studio & Gemini Integration, Personalized Chatbots</li>
-    <li>JS Projects: Weather Apps, YouTube/Spotify/WhatsApp Clones</li>
-  </ul>
+<details style="border: 1px solid #30363d; border-radius: 8px; margin-bottom: 10px;">
+  <summary style="padding: 10px; cursor: pointer; font-size: 1.1em; font-weight: bold; background-color: #161b22; color: #58a6ff; border-radius: 7px 7px 0 0;">
+    🧠 Generative AI & Agentic AI (Core Focus)
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #30363d;">
+    <ul>
+      <li><b>Agent Architectures:</b> BDI, Reflex, ReAct, Planner, Hierarchical Systems</li>
+      <li><b>Frameworks:</b> LangChain, LangGraph (Workflows), CrewAI, N8N</li>
+      <li><b>LLMs Exposure:</b> GPT, Claude, Gemini, Mistral, Grok (API Integration)</li>
+      <li><b>GenAI Tasks:</b> Prompt Engineering (CoT), Fine-tuning, RAG implementation</li>
+      <li><b>Multimodal:</b> Image Gen (DALL·E), Audio (TTS/ElevenLabs), Video (Sora concepts)</li>
+    </ul>
+  </div>
 </details>
 
-<details>
-  <summary><b>🌿 Git & GitHub (Real-world Workflow)</b></summary>
-  <br/>
-  <ul>
-    <li>Git Basics: init, add, commit, log, status</li>
-    <li>Branching, Merging, Conflict Resolution</li>
-    <li>GitHub for Collaboration: PRs, Issues, Projects</li>
-    <li>GitHub Actions for CI/CD Workflows</li>
-    <li>GitHub Desktop & Web Client Usage</li>
-  </ul>
+<details style="border: 1px solid #30363d; border-radius: 8px; margin-bottom: 10px;">
+  <summary style="padding: 10px; cursor: pointer; font-size: 1.1em; font-weight: bold; background-color: #161b22; color: #58a6ff; border-radius: 7px 7px 0 0;">
+    ⚙️ Backend, Cloud & Data Science Depth
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #30363d;">
+    <ul>
+      <li><b>Backend:</b> Node/Express, FastAPI, RESTful APIs, JWT Auth, WebSockets</li>
+      <li><b>Data Stack:</b> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, SQL/NoSQL</li>
+      <li><b>Big Data/NLP:</b> Spark, Hadoop concepts, Transformers (BERT), Data Visualization (Plotly)</li>
+      <li><b>AWS/Cloud:</b> EC2, S3, Lambda, RDS, DynamoDB, API Gateway, Docker Containerization</li>
+    </ul>
+  </div>
 </details>
 
-<details>
-  <summary><b>⚛️ React JS Ecosystem</b></summary>
-  <br/>
-  <ul>
-    <li>Components, JSX, Props, Composition</li>
-    <li>State & Lifecycle with Hooks (useState, useEffect, custom hooks)</li>
-    <li>Routing & Navigation (React Router)</li>
-    <li>Global State: Context API, Redux</li>
-    <li>Styling: Tailwind, Chakra UI, Styled Components, Shadcn</li>
-    <li>Admin Dashboards: MUI Admin, Dashboard Kit templates</li>
-    <li>Data Fetching: REST, GraphQL, SWR/RTK Query</li>
-    <li>Package Managers: npm, yarn, pnpm, bun</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>⚡ Next.js Full Stack</b></summary>
-  <br/>
-  <ul>
-    <li>Pages, Layouts, File-based Routing (Static & Dynamic)</li>
-    <li>SSR, SSG, ISR – advanced data fetching</li>
-    <li>API Routes, Middleware, Edge Functions</li>
-    <li>Auth: NextAuth.js, Firebase Auth, JWT Strategies</li>
-    <li>Full-stack Apps: Next.js + Mongoose + MongoDB</li>
-    <li>Styling: Tailwind, Chakra UI, Sass, Shadcn UI</li>
-    <li>Admin UIs: Vercel Style Dashboards, AdminLTE-inspired layouts</li>
-    <li>SEO: Meta Tags, OpenGraph, Image Optimization</li>
-    <li>Deployment: Vercel & AWS</li>
-    <li>AWS SDK, S3, Cognito integration in Next.js</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🧩 Node.js, Express.js & Backend Engineering</b></summary>
-  <br/>
-  <ul>
-    <li>Node Core: fs, path, events, streams</li>
-    <li>Express.js: Routing, Middleware, Error Handling</li>
-    <li>RESTful API Design, Versioning, Pagination</li>
-    <li>File Uploads (Multer), CORS, Security Headers</li>
-    <li>Realtime: WebSockets & Socket.IO</li>
-    <li>Databases: MongoDB (Mongoose), PostgreSQL (Prisma)</li>
-    <li>Auth: JWT, Role-Based Access, API Security (Helmet, Rate Limiting)</li>
-    <li>Monitoring & Analytics: Status endpoints, basic observability</li>
-    <li>Deployment: Heroku, Railway, AWS EC2</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>☁️ AWS, Firebase & Cloud Computing</b></summary>
-  <br/>
-  <ul>
-    <li>AWS Core: EC2, S3, ECR, ECS, Lambda, RDS, CloudFront</li>
-    <li>Serverless: Lambda, DynamoDB, API Gateway</li>
-    <li>CI/CD: GitHub Actions, AWS CodePipeline</li>
-    <li>Docker & Containerization</li>
-    <li>Monitoring: CloudWatch, New Relic basics</li>
-    <li>Load Balancing & Auto Scaling concepts</li>
-    <li>Full-stack Deployment: Next.js + Node.js on AWS</li>
-    <li>Firebase: Firestore, Auth, Cloud Functions</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>📈 Data Science, ML & Deep Learning</b></summary>
-  <br/>
-  <ul>
-    <li>Python for Data Science</li>
-    <li>Data Cleaning & Wrangling: Pandas, NumPy</li>
-    <li>EDA & Visualization: Matplotlib, Seaborn, Plotly</li>
-    <li>Feature Engineering & Time Series Analysis</li>
-    <li>ML: Regression, Classification, Clustering, PCA</li>
-    <li>Model Tuning: GridSearchCV, Optuna</li>
-    <li>DL: CNNs, RNNs, Transformers (BERT, GPT concepts)</li>
-    <li>Frameworks: Scikit-learn, TensorFlow, Keras, PyTorch</li>
-    <li>Deployment: Flask, FastAPI, HuggingFace, ONNX, SageMaker, TF Lite</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>📚 Big Data & NLP</b></summary>
-  <br/>
-  <ul>
-    <li>Big Data Concepts & Use Cases</li>
-    <li>Hadoop: HDFS, MapReduce, YARN</li>
-    <li>Apache Spark: RDDs, DataFrames, MLlib</li>
-    <li>Data Lakes vs Warehouses</li>
-    <li>Pipelines: Apache Airflow, NiFi, ETL with Spark + Python</li>
-    <li>Cloud Big Data: AWS Glue, EMR, Google BigQuery, DataProc</li>
-    <li>NLP: Text Preprocessing, Tokenization, Lemmatization, POS</li>
-    <li>Embeddings: Word2Vec, GloVe, BERT-based models</li>
-    <li>Tasks: Text Classification, NER, Sentiment Analysis</li>
-    <li>Chatbots & Real-Time NLP Applications</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🧠 Generative AI (GenAI)</b></summary>
-  <br/>
-  <ul>
-    <li>Prompt Engineering: Few-shot, Zero-shot, Chain-of-Thought</li>
-    <li>LLMs: GPT, Claude, Gemini, Mistral, Grok, Llama</li>
-    <li>Image Gen: DALL·E, Gemini Image, ImageFX</li>
-    <li>Audio: MusicGen, TTS, ElevenLabs, Narakeet</li>
-    <li>Video: Sora, RunwayML, InVideo AI</li>
-    <li>Multimodal Models: CLIP, Flamingo-style architectures</li>
-    <li>AI Tools: Notion AI, Canva Magic Write, ChatGPT Plugins, MS Designer</li>
-    <li>Use Cases: Email Writer, Avatar Gen, Voice Cloning</li>
-    <li>APIs: OpenAI, HuggingFace, Replicate</li>
-    <li>Fine-tuning & Custom GPTs</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🤖 Agentic AI & Autonomous Agents</b></summary>
-  <br/>
-  <ul>
-    <li>Agentic AI Foundations: Autonomous, Tool-Using Agents</li>
-    <li>Architectures: BDI, Reflex, Planner, Hierarchical Agents</li>
-    <li>Multi-Agent Systems: Swarm Intelligence, Collaboration</li>
-    <li>LangChain: Tool Calling, ReAct, Plan & Execute</li>
-    <li>LangGraph: Workflow Graphs for Agents</li>
-    <li>LangSmith: Tracing, Evaluation, Feedback Loops</li>
-    <li>LangFuse: Logging & Observability</li>
-    <li>CrewAI, n8n Workflows for Automation</li>
-    <li>Google A2A Protocol, MCP Server & Google Agent Dev Kit</li>
-    <li>Conversational Agents with Memory & Tools</li>
-    <li>Ethical & Safe Agent Design Principles</li>
-    <li>LinkedIn Profile Optimization & Personal Branding</li>
-    <li>Fiverr & Upwork Strategy (Gigs, Proposals, Pricing)</li>
-  </ul>
-</details>
-
-<!-- Animated Divider -->
+<!-- Animated Divider 3 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="50%">
       <h3>📈 GitHub Stats</h3>
@@ -296,5 +165,5 @@
 
 <!-- Footer Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33ai009QzJJjW/giphy.gif" width="100" alt="Thanks Gif" />
+  <img src="https://media.giphy.com/media/3o75263l6FTQ1X2v70/giphy.gif" width="150" alt="Thanks" />
 </div>
