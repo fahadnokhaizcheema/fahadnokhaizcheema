@@ -95,9 +95,12 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Analytics & Stats</h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Metrics-5b43ad?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Code-2ea44f?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=fahadnokhaizcheema&show_icons=true&theme=tokyonight&hide_border=false" alt="Fahad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadnokhaizcheema&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
@@ -105,6 +108,8 @@
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Commit%20Streak-Activity-fe7d37?style=for-the-badge&logo=fire&logoColor=white" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadnokhaizcheema&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
