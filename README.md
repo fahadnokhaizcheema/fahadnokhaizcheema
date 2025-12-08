@@ -3,6 +3,9 @@
   <!-- 🟣 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Fahad Header" />
 
+  <!-- ✨ Extra header animation (just below banner) -->
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="170" alt="Header Animation" />
+
   <!-- 🔥 Small animated accent under header -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
@@ -23,9 +26,16 @@
 
   <br/>
 
-  <!-- 👁️ Profile Views & 🏆 Trophies -->
+  <!-- 👁️ Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=fahadnokhaizcheema&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   <br/><br/>
+
+  <!-- 🏆 Achievements Section with Animation -->
+  <p align="center">
+    <b>🏆 Achievements</b>
+  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="fahadnokhaizcheema trophies" />
   </a>
@@ -165,4 +175,149 @@
     <li>Auth: NextAuth.js, Firebase Authentication, JWT</li>
     <li>Full-stack Apps: Next.js + Mongoose + MongoDB</li>
     <li>Styling: Tailwind, Chakra UI, Sass, Shadcn UI</li>
-  
+    <li>Admin UI Templates: Vercel-style Admins, custom dashboards</li>
+    <li>SEO: Meta Tags, OpenGraph, Image Optimization</li>
+    <li>Deployment: Vercel, AWS</li>
+    <li>AWS SDK, S3, Cognito Integration in Next.js</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧩 Node.js, Express.js & Backend</b></summary>
+  <br/>
+  <ul>
+    <li>Node.js Core: fs, path, events, streams</li>
+    <li>Express.js: Routing, Middleware, Error Handling</li>
+    <li>Building RESTful APIs</li>
+    <li>File Uploads (Multer), CORS</li>
+    <li>Realtime Apps: WebSockets & Socket.IO</li>
+    <li>Databases: MongoDB (Mongoose), PostgreSQL (Prisma)</li>
+    <li>Authentication: JWT, Role-based Access Control</li>
+    <li>Security: Helmet, Rate Limiting, Best Practices</li>
+    <li>Monitoring & Status Endpoints</li>
+    <li>Deployment: Heroku, Railway, AWS EC2</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>☁️ AWS, Firebase & Cloud Computing</b></summary>
+  <br/>
+  <ul>
+    <li>AWS Core: EC2, S3, ECR, ECS, Lambda, RDS, CloudFront</li>
+    <li>Serverless: Lambda, DynamoDB, API Gateway</li>
+    <li>CI/CD: GitHub Actions, CodePipeline</li>
+    <li>Docker & Containerization</li>
+    <li>Monitoring: CloudWatch, New Relic (basics)</li>
+    <li>Load Balancing & Auto Scaling Concepts</li>
+    <li>Full-stack Deployment: Next.js + Node.js on AWS</li>
+    <li>Google Firebase & Cloud Functions</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📈 Data Science, ML & Deep Learning</b></summary>
+  <br/>
+  <ul>
+    <li>Python for Data Science</li>
+    <li>Data Cleaning & Wrangling: Pandas, NumPy</li>
+    <li>EDA & Visualization: Matplotlib, Seaborn, Plotly</li>
+    <li>Feature Engineering & Time Series / Anomaly Detection</li>
+    <li>ML: Regression, Classification, Clustering, PCA</li>
+    <li>Hyperparameter Tuning: GridSearchCV, Optuna</li>
+    <li>DL: CNNs, RNNs, Transformers (BERT, GPT)</li>
+    <li>Frameworks: Scikit-learn, TensorFlow, Keras, PyTorch</li>
+    <li>Deployment: Flask, FastAPI, HuggingFace, ONNX, SageMaker, TF Lite</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📚 Big Data & NLP</b></summary>
+  <br/>
+  <ul>
+    <li>Big Data Concepts & Use Cases</li>
+    <li>Hadoop Ecosystem: HDFS, MapReduce, YARN</li>
+    <li>Apache Spark: RDDs, DataFrames, MLlib</li>
+    <li>Data Lakes vs Data Warehouses</li>
+    <li>ETL Pipelines: Apache Airflow, NiFi, Spark + Python</li>
+    <li>Cloud Big Data: AWS Glue, EMR, Google BigQuery, DataProc</li>
+    <li>NLP: Tokenization, Lemmatization, POS Tagging</li>
+    <li>Embeddings: Word2Vec, GloVe, BERT</li>
+    <li>Text Classification, NER, Sentiment Analysis</li>
+    <li>Conversational Agents & Real-time Chatbots</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧠 Generative AI (GenAI)</b></summary>
+  <br/>
+  <ul>
+    <li>Prompt Engineering: Few-shot, Zero-shot, Chain of Thought</li>
+    <li>LLMs: GPT, Claude, Gemini, Mistral, Grok, Llama</li>
+    <li>Image Gen: DALL·E, Gemini Image, ImageFX</li>
+    <li>Audio: MusicGen, TTS, ElevenLabs, Narakeet</li>
+    <li>Video: Sora, RunwayML, Invideo AI</li>
+    <li>Multimodal Models: CLIP, Flamingo-style architectures</li>
+    <li>AI Tools: Notion AI, Canva Magic Write, ChatGPT Plugins, Microsoft Designer</li>
+    <li>Use Cases: Email Writer, Avatar Gen, Voice Cloner</li>
+    <li>APIs: OpenAI, HuggingFace, Replicate</li>
+    <li>Fine-tuning & Custom GPTs</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🤖 Agentic AI & Autonomous Agents</b></summary>
+  <br/>
+  <ul>
+    <li>Agent Foundations: Autonomous, Tool-Using Agents</li>
+    <li>Architectures: BDI, Reflex, Planner, Hierarchical</li>
+    <li>Multi-Agent Systems: Swarm Intelligence, Collaboration</li>
+    <li>LangChain: Tool-Calling, ReAct, Plan & Execute</li>
+    <li>LangGraph: Workflow Graphs for Agents</li>
+    <li>LangSmith: Tracing, Evaluation, Feedback Loops</li>
+    <li>LangFuse: Logging & Observability</li>
+    <li>CrewAI, n8n Workflows for Automation</li>
+    <li>Google A2A Protocol, MCP Server, Google Agent Dev Kit</li>
+    <li>Conversational Agents with Memory & Tools</li>
+    <li>Ethical & Safe Agent Design Principles</li>
+    <li>LinkedIn Profile Optimization & Personal Branding</li>
+    <li>Fiverr & Upwork Strategy (Gigs, Proposals, Pricing)</li>
+  </ul>
+</details>
+
+<!-- 🌈 Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=fahadnokhaizcheema&show_icons=true&theme=tokyonight&hide_border=false" alt="Fahad's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadnokhaizcheema&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 Commit Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadnokhaizcheema&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<br/>
+
+<!-- 🎬 Footer Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33ai009QzJJwWg/giphy.gif" width="100" alt="Thanks Gif" />
+</div>
