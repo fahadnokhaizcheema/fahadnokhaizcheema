@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Fahad Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Fahad Header" />
 </div>
 
 <div align="center">
@@ -7,14 +7,11 @@
   <a href="https://linkedin.com/in/fahad-nokhaiz-cheema" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:fahad.nokhaizcheema@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:fnc5690@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fnc5690@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/fahadnokhaizcheema">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
   <br />
@@ -35,8 +32,8 @@
 
 <div align="center">
   
-  Currently working on **Agentic AI & Large Language Models** 🤖  
-  🌱 Learning **Advanced Computer Vision & Robotics**  
+  🤖 Currently working on **Agentic AI & Large Language Models** <br/> 
+  🌱 Learning **Advanced Computer Vision & Robotics** <br/> 
   💬 Ask me about **React, Next.js, Python, & AI Agents**
   
 </div>
@@ -101,14 +98,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadnokhaizcheema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Fahad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadnokhaizcheema&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadnokhaizcheema&show_icons=true&theme=tokyonight&hide_border=false" alt="Fahad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadnokhaizcheema&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadnokhaizcheema&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadnokhaizcheema&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br/>
