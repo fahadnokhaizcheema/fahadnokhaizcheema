@@ -3,8 +3,8 @@
   <!-- 🟣 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Fahad Header" />
 
-  <!-- ✨ Extra header animation (just below banner) -->
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="170" alt="Header Animation" />
+  <!-- ✨ Extra header animation (just below banner) – UPDATED -->
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260" alt="Developer Animation" />
 
   <!-- 🔥 Small animated accent under header -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
@@ -30,15 +30,33 @@
   <img src="https://komarev.com/ghpvc/?username=fahadnokhaizcheema&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   <br/><br/>
 
-  <!-- 🏆 Achievements Section with Animation -->
+  <!-- 🏆 Achievements Section (NEW STYLE) -->
   <p align="center">
-    <b>🏆 Achievements</b>
+    <b>🏆 Achievements & Highlights</b>
   </p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+
+  <!-- Trophy GIF -->
+  <div align="center">
+    <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="120" alt="Trophy Animation" />
+  </div>
+
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="fahadnokhaizcheema trophies" />
-  </a>
+
+  <!-- GitHub Achievements Badges -->
+  <div align="center">
+    <img src="https://img.shields.io/github/followers/fahadnokhaizcheema?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" />
+    <img src="https://img.shields.io/github/repos/fahadnokhaizcheema?style=for-the-badge&logo=github&label=Public%20Repos" />
+  </div>
+
+  <br/>
+
+  <!-- Trophy Board (Theme Changed) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+    </a>
+  </div>
 
 </div>
 
