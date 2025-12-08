@@ -3,8 +3,8 @@
   <!-- 🟣 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=280&amp;section=header&amp;text=Fahad%20Nokhaiz%20Cheema&amp;fontSize=42&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descAlign=50" alt="Fahad Header" />
 
-  <!-- ✨ Extra header animation (just below banner) – UPDATED -->
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260" alt="Developer Animation" />
+  <!-- ✨ Extra header animation (just below banner) – BOY CODER -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer Animation" />
 
   <!-- 🔥 Small animated accent under header -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Header Divider" />
@@ -45,7 +45,10 @@
   <!-- GitHub Achievements Badges -->
   <div align="center">
     <img src="https://img.shields.io/github/followers/fahadnokhaizcheema?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Stars" alt="GitHub Stars" />
+    
+    <!-- ✅ Fixed Stars Badge (Repo Stars) -->
+    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema/fahadnokhaizcheema?style=for-the-badge&amp;logo=github&amp;label=Repo%20Stars" alt="GitHub Repo Stars" />
+    
     <img src="https://img.shields.io/github/repo-count/fahadnokhaizcheema?style=for-the-badge&amp;logo=github&amp;label=Public%20Repos" alt="Public Repositories" />
   </div>
 
@@ -179,4 +182,163 @@
     <li>Styling: Tailwind, Chakra UI, Styled Components, Shadcn UI</li>
     <li>Admin Templates: MUI Admin, Dashboard Kit</li>
     <li>Data Fetching: REST, GraphQL, SWR/RTK Query Patterns</li>
-    <li>Package Managers:
+    <li>Package Managers: npm, yarn, pnpm, bun</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚡ Next.js Full Stack</b></summary>
+  <br/>
+  <ul>
+    <li>Pages, Layouts, Static &amp; Dynamic Routing</li>
+    <li>SSR, SSG, ISR – Data Fetching Strategies</li>
+    <li>API Routes, Middleware, Edge Functions</li>
+    <li>Auth: NextAuth.js, Firebase Authentication, JWT</li>
+    <li>Full-stack Apps: Next.js + Mongoose + MongoDB</li>
+    <li>Styling: Tailwind, Chakra UI, Sass, Shadcn UI</li>
+    <li>Admin UI Templates: Vercel-style Admins, custom dashboards</li>
+    <li>SEO: Meta Tags, OpenGraph, Image Optimization</li>
+    <li>Deployment: Vercel, AWS</li>
+    <li>AWS SDK, S3, Cognito Integration in Next.js</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧩 Node.js, Express.js &amp; Backend</b></summary>
+  <br/>
+  <ul>
+    <li>Node.js Core: fs, path, events, streams</li>
+    <li>Express.js: Routing, Middleware, Error Handling</li>
+    <li>Building RESTful APIs</li>
+    <li>File Uploads (Multer), CORS</li>
+    <li>Realtime Apps: WebSockets &amp; Socket.IO</li>
+    <li>Databases: MongoDB (Mongoose), PostgreSQL (Prisma)</li>
+    <li>Authentication: JWT, Role-based Access Control</li>
+    <li>Security: Helmet, Rate Limiting, Best Practices</li>
+    <li>Monitoring &amp; Status Endpoints</li>
+    <li>Deployment: Heroku, Railway, AWS EC2</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>☁️ AWS, Firebase &amp; Cloud Computing</b></summary>
+  <br/>
+  <ul>
+    <li>AWS Core: EC2, S3, ECR, ECS, Lambda, RDS, CloudFront</li>
+    <li>Serverless: Lambda, DynamoDB, API Gateway</li>
+    <li>CI/CD: GitHub Actions, CodePipeline</li>
+    <li>Docker &amp; Containerization</li>
+    <li>Monitoring: CloudWatch, New Relic (basics)</li>
+    <li>Load Balancing &amp; Auto Scaling Concepts</li>
+    <li>Full-stack Deployment: Next.js + Node.js on AWS</li>
+    <li>Google Firebase &amp; Cloud Functions</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📈 Data Science, ML &amp; Deep Learning</b></summary>
+  <br/>
+  <ul>
+    <li>Python for Data Science</li>
+    <li>Data Cleaning &amp; Wrangling: Pandas, NumPy</li>
+    <li>EDA &amp; Visualization: Matplotlib, Seaborn, Plotly</li>
+    <li>Feature Engineering &amp; Time Series / Anomaly Detection</li>
+    <li>ML: Regression, Classification, Clustering, PCA</li>
+    <li>Hyperparameter Tuning: GridSearchCV, Optuna</li>
+    <li>DL: CNNs, RNNs, Transformers (BERT, GPT)</li>
+    <li>Frameworks: Scikit-learn, TensorFlow, Keras, PyTorch</li>
+    <li>Deployment: Flask, FastAPI, HuggingFace, ONNX, SageMaker, TF Lite</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📚 Big Data &amp; NLP</b></summary>
+  <br/>
+  <ul>
+    <li>Big Data Concepts &amp; Use Cases</li>
+    <li>Hadoop Ecosystem: HDFS, MapReduce, YARN</li>
+    <li>Apache Spark: RDDs, DataFrames, MLlib</li>
+    <li>Data Lakes vs Data Warehouses</li>
+    <li>ETL Pipelines: Apache Airflow, NiFi, Spark + Python</li>
+    <li>Cloud Big Data: AWS Glue, EMR, Google BigQuery, DataProc</li>
+    <li>NLP: Tokenization, Lemmatization, POS Tagging</li>
+    <li>Embeddings: Word2Vec, GloVe, BERT</li>
+    <li>Text Classification, NER, Sentiment Analysis</li>
+    <li>Conversational Agents &amp; Real-time Chatbots</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧠 Generative AI (GenAI)</b></summary>
+  <br/>
+  <ul>
+    <li>Prompt Engineering: Few-shot, Zero-shot, Chain of Thought</li>
+    <li>LLMs: GPT, Claude, Gemini, Mistral, Grok, Llama</li>
+    <li>Image Gen: DALL·E, Gemini Image, ImageFX</li>
+    <li>Audio: MusicGen, TTS, ElevenLabs, Narakeet</li>
+    <li>Video: Sora, RunwayML, Invideo AI</li>
+    <li>Multimodal Models: CLIP, Flamingo-style architectures</li>
+    <li>AI Tools: Notion AI, Canva Magic Write, ChatGPT Plugins, Microsoft Designer</li>
+    <li>Use Cases: Email Writer, Avatar Gen, Voice Cloner</li>
+    <li>APIs: OpenAI, HuggingFace, Replicate</li>
+    <li>Fine-tuning &amp; Custom GPTs</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🤖 Agentic AI &amp; Autonomous Agents</b></summary>
+  <br/>
+  <ul>
+    <li>Agent Foundations: Autonomous, Tool-Using Agents</li>
+    <li>Architectures: BDI, Reflex, Planner, Hierarchical</li>
+    <li>Multi-Agent Systems: Swarm Intelligence, Collaboration</li>
+    <li>LangChain: Tool-Calling, ReAct, Plan &amp; Execute</li>
+    <li>LangGraph: Workflow Graphs for Agents</li>
+    <li>LangSmith: Tracing, Evaluation, Feedback Loops</li>
+    <li>LangFuse: Logging &amp; Observability</li>
+    <li>CrewAI, n8n Workflows for Automation</li>
+    <li>Google A2A Protocol, MCP Server, Google Agent Dev Kit</li>
+    <li>Conversational Agents with Memory &amp; Tools</li>
+    <li>Ethical &amp; Safe Agent Design Principles</li>
+    <li>LinkedIn Profile Optimization &amp; Personal Branding</li>
+    <li>Fiverr &amp; Upwork Strategy (Gigs, Proposals, Pricing)</li>
+  </ul>
+</details>
+
+<!-- 🌈 Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=fahadnokhaizcheema&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false" alt="Fahad's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadnokhaizcheema&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 Commit Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadnokhaizcheema&amp;theme=tokyonight&amp;hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Quote" />
+</div>
+
+<br/>
+
+<!-- 🎬 Footer Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33ai009QzJJwWg/giphy.gif" width="100" alt="Thanks Gif" />
+</div>
