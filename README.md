@@ -3,11 +3,8 @@
   <!-- 🟣 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fahad%20Nokhaiz%20Cheema&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Fahad Header" />
 
-  <!-- ✨ Extra header animation (just below banner) – UPDATED -->
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260" alt="Developer Animation" />
-
-  <!-- 🔥 Small animated accent under header -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+  <!-- ✨ New header animation (blinking cursor) -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Blinking Cursor" />
 
   <br/>
 
@@ -28,35 +25,6 @@
 
   <!-- 👁️ Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=fahadnokhaizcheema&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  <br/><br/>
-
-  <!-- 🏆 Achievements Section (NEW STYLE) -->
-  <p align="center">
-    <b>🏆 Achievements & Highlights</b>
-  </p>
-
-  <!-- Trophy GIF -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="120" alt="Trophy Animation" />
-  </div>
-
-  <br/>
-
-  <!-- GitHub Achievements Badges -->
-  <div align="center">
-    <img src="https://img.shields.io/github/followers/fahadnokhaizcheema?label=Followers&style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" />
-    <img src="https://img.shields.io/github/repos/fahadnokhaizcheema?style=for-the-badge&logo=github&label=Public%20Repos" />
-  </div>
-
-  <br/>
-
-  <!-- Trophy Board (Theme Changed) -->
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-    </a>
-  </div>
 
 </div>
 
@@ -301,6 +269,28 @@
     <li>Fiverr & Upwork Strategy (Gigs, Proposals, Pricing)</li>
   </ul>
 </details>
+
+<!-- 🌈 Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ⭐ New Achievements Section -->
+<h2 align="center">🏆 Achievements & Contributions</h2>
+
+<!-- Table for Achievements & Snake Animation -->
+<table align="center" style="border: none;">
+  <tr>
+    <!-- Left Column: Trophies -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="fahadnokhaizcheema trophies" />
+      </a>
+    </td>
+    <!-- Right Column: Animated Snake -->
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/fahadnokhaizcheema/fahadnokhaizcheema/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    </td>
+  </tr>
+</table>
 
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
