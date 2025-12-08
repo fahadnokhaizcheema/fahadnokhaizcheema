@@ -3,8 +3,8 @@
   <!-- 🟣 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=280&amp;section=header&amp;text=Fahad%20Nokhaiz%20Cheema&amp;fontSize=42&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descAlign=50" alt="Fahad Header" />
 
-  <!-- ✨ Extra header animation (just below banner) – BOY CODER -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer Animation" />
+  <!-- ✨ Extra header animation (Male developer) – UPDATED -->
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Developer Animation" />
 
   <!-- 🔥 Small animated accent under header -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Header Divider" />
@@ -42,14 +42,11 @@
 
   <br/>
 
-  <!-- GitHub Achievements Badges -->
+  <!-- GitHub Achievements Badges (FIXED) -->
   <div align="center">
     <img src="https://img.shields.io/github/followers/fahadnokhaizcheema?label=Followers&amp;style=for-the-badge&amp;logo=github" alt="GitHub Followers" />
-    
-    <!-- ✅ Fixed Stars Badge (Repo Stars) -->
-    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema/fahadnokhaizcheema?style=for-the-badge&amp;logo=github&amp;label=Repo%20Stars" alt="GitHub Repo Stars" />
-    
-    <img src="https://img.shields.io/github/repo-count/fahadnokhaizcheema?style=for-the-badge&amp;logo=github&amp;label=Public%20Repos" alt="Public Repositories" />
+    <img src="https://img.shields.io/github/stars/fahadnokhaizcheema?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Stars" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/repos/fahadnokhaizcheema?style=for-the-badge&amp;logo=github&amp;label=Public%20Repos" alt="Public Repositories" />
   </div>
 
   <br/>
@@ -57,7 +54,7 @@
   <!-- Trophy Board (Theme Changed) -->
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=fahadnokhaizcheema&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="GitHub Trophies" />
     </a>
   </div>
 
