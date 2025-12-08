@@ -5,7 +5,7 @@
 
   <!-- 2. Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+AI+Agents+🤖;Developing+Generative+AI+Apps+🚀;Full+Stack+Web+Development+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+AI+Agents+🤖;Developing+Generative+AI+Apps+🚀;Full+Stack+Web+Development+💻;Expert+in+Agentic+AI+&+LLMs+🧠" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -40,7 +40,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVI2uP8I8/giphy.gif" width="200" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/L1R1TVI2uP8I8/giphy.gif" width="180" alt="Coding Gif" />
   <br/>
   
   <p>
@@ -57,32 +57,74 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🚀 Comprehensive Tech Stack & Skills</h2>
 
+<!-- Main Animated Icons -->
 <div align="center">
-
-  <!-- New Stylish Icons (SkillIcons) -->
-  <h3>💻 Frontend & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,express,python,flask,fastapi,mongodb,postgres,firebase,graphql&perline=9" />
-  
-  <br/><br/>
-
-  <h3>🤖 AI, ML & GenAI</h3>
-  <!-- Mixing SkillIcons with Shields for specific AI tools -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-
-  <br/><br/>
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tensorflow,pytorch,aws,docker,git&perline=13" />
 </div>
+<br/>
+
+<!-- Collapsible Detailed Sections (Click to Expand) -->
+
+<details>
+  <summary><b>🤖 Agentic AI & Autonomous Agents (Specialization)</b></summary>
+  <br/>
+  <ul>
+    <li><b>Agent Foundations:</b> Autonomous, Tool-Using Agents, BDI, Reflex, Hierarchical Architectures</li>
+    <li><b>Frameworks:</b> LangChain (ReAct, Plan & Execute), LangGraph (Workflows), CrewAI</li>
+    <li><b>Tools:</b> LangSmith (Tracing), LangFuse (Observability), Google A2A Protocol, MCP Server</li>
+    <li><b>Development:</b> Google Agent Dev Kit, Conversational Agents with Memory, Multi-Agent Systems (Swarm)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧠 Generative AI (LLMs & Vision)</b></summary>
+  <br/>
+  <ul>
+    <li><b>Models:</b> GPT-4, Claude 3, Gemini, Mistral, Llama 3, Grok</li>
+    <li><b>Techniques:</b> Prompt Engineering (Few-shot, CoT), RAG, Fine-tuning, Custom GPTs</li>
+    <li><b>Image & Video:</b> DALL·E, Stable Diffusion, Sora, RunwayML</li>
+    <li><b>Audio/Voice:</b> ElevenLabs, MusicGen, TTS, Whisper</li>
+    <li><b>Tools:</b> HuggingFace Transformers, Replicate API, Vector Databases (Pinecone, Chroma)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>💻 Full Stack Web Development (MERN/Next.js)</b></summary>
+  <br/>
+  <ul>
+    <li><b>Frontend:</b> React.js (Hooks, Context), Next.js (SSR, ISR, API Routes), Redux</li>
+    <li><b>Styling:</b> Tailwind CSS, Chakra UI, Shadcn UI, Framer Motion</li>
+    <li><b>Backend:</b> Node.js, Express.js (REST APIs), GraphQL, WebSockets (Socket.io)</li>
+    <li><b>Database:</b> MongoDB (Mongoose), PostgreSQL (Prisma), Firebase</li>
+    <li><b>Auth & Security:</b> NextAuth.js, JWT, OAuth, Helmet, Rate Limiting</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📊 Data Science, Big Data & NLP</b></summary>
+  <br/>
+  <ul>
+    <li><b>Data Science:</b> Pandas, NumPy, Matplotlib, Seaborn, Plotly, EDA</li>
+    <li><b>Machine Learning:</b> Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost</li>
+    <li><b>Big Data:</b> Apache Spark, Hadoop, AWS Glue, ETL Pipelines</li>
+    <li><b>NLP:</b> BERT, Word2Vec, Sentiment Analysis, Text Classification, Spacy</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+  <br/>
+  <ul>
+    <li><b>Cloud (AWS):</b> EC2, S3, Lambda, DynamoDB, API Gateway</li>
+    <li><b>DevOps:</b> Docker, Kubernetes, CI/CD (GitHub Actions), Vercel</li>
+    <li><b>Version Control:</b> Git, GitHub Projects, Branching Strategies</li>
+    <li><b>Other Tools:</b> Postman, Figma, Notion AI, Jira</li>
+  </ul>
+</details>
+
+<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
